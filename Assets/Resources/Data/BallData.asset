@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40bcd92d1a45a3448a68053bb4d3ef47, type: 3}
+  m_Name: BallData
+  m_EditorClassIdentifier: 
+  linearSpeed: 3
+  jumptSpeed: 5.02
+  leftSpawn: -3
+  rightSpawn: 3
+  maxVelocity: 5
+  StartPosition: {x: 0, y: 1.8, z: 0}
